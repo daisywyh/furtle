@@ -1,0 +1,256 @@
+{
+  "planName": "Aetna 2026 Standard Plan",
+  "planYear": 2026,
+  "insurer": "Aetna",
+  "lastUpdated": "2026-05-08",
+  "drugs": [
+    {
+      "drugName": "Clomid",
+      "genericName": "clomiphene citrate",
+      "brandNames": [
+        "Clomid",
+        "Serophene"
+      ],
+      "coverageCode": "UNKNOWN",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": false,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Not found in formulary — contact Aetna to verify",
+      "covered": false,
+      "genericAlternative": null,
+      "matchedLine": ""
+    },
+    {
+      "drugName": "Femara",
+      "genericName": "letrozole",
+      "brandNames": [
+        "Femara"
+      ],
+      "coverageCode": "NF",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Non-formulary — prior authorization or exception required",
+      "covered": false,
+      "genericAlternative": "letrozole oral tablet 2.5 mg (generic) — covered",
+      "matchedLine": "FEMARA ORAL TABLET 2.5 MG (letrozole)NPB"
+    },
+    {
+      "drugName": "Gonal-F",
+      "genericName": "follitropin alfa",
+      "brandNames": [
+        "Gonal-F",
+        "Gonal-F RFF"
+      ],
+      "coverageCode": "NF",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Non-formulary — prior authorization or exception required",
+      "covered": false,
+      "genericAlternative": null,
+      "matchedLine": "GONAL-F INJECTION SOLUTION RECONSTITUTED 450"
+    },
+    {
+      "drugName": "Follistim AQ",
+      "genericName": "follitropin beta",
+      "brandNames": [
+        "Follistim AQ"
+      ],
+      "coverageCode": "PSP",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": false,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Must be filled at a Preferred Specialty Pharmacy",
+      "covered": true,
+      "genericAlternative": null,
+      "matchedLine": "FOLLISTIM AQ SUBCUTANEOUS SOLUTION 300"
+    },
+    {
+      "drugName": "Menopur",
+      "genericName": "menotropins",
+      "brandNames": [
+        "Menopur"
+      ],
+      "coverageCode": "PSP",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": false,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Must be filled at a Preferred Specialty Pharmacy",
+      "covered": true,
+      "genericAlternative": null,
+      "matchedLine": "MENOPUR SUBCUTANEOUS SOLUTION"
+    },
+    {
+      "drugName": "Luveris",
+      "genericName": "lutropin alfa",
+      "brandNames": [
+        "Luveris"
+      ],
+      "coverageCode": "UNKNOWN",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": false,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Not found in formulary — contact Aetna to verify",
+      "covered": false,
+      "genericAlternative": null,
+      "matchedLine": ""
+    },
+    {
+      "drugName": "Bravelle",
+      "genericName": "urofollitropin",
+      "brandNames": [
+        "Bravelle"
+      ],
+      "coverageCode": "UNKNOWN",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": false,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Not found in formulary — contact Aetna to verify",
+      "covered": false,
+      "genericAlternative": null,
+      "matchedLine": ""
+    },
+    {
+      "drugName": "Lupron",
+      "genericName": "leuprolide acetate",
+      "brandNames": [
+        "Lupron",
+        "Lupron Depot"
+      ],
+      "coverageCode": "NF",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Non-formulary — prior authorization or exception required",
+      "covered": false,
+      "genericAlternative": "leuprolide acetate injection kit 1 mg/0.2 mL (generic) — covered",
+      "matchedLine": "LUPRON DEPOT (1-MONTH) INTRAMUSCULAR KIT 3.75"
+    },
+    {
+      "drugName": "Ganirelix",
+      "genericName": "ganirelix acetate",
+      "brandNames": [
+        "Ganirelix",
+        "Fyremadel"
+      ],
+      "coverageCode": "NF",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Non-formulary — prior authorization or exception required",
+      "covered": false,
+      "genericAlternative": null,
+      "matchedLine": "ganirelix acetate (Fyremadel Subcutaneous Solution Prefilled"
+    },
+    {
+      "drugName": "Cetrotide",
+      "genericName": "cetrorelix acetate",
+      "brandNames": [
+        "Cetrotide"
+      ],
+      "coverageCode": "NF",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Non-formulary — prior authorization or exception required",
+      "covered": false,
+      "genericAlternative": null,
+      "matchedLine": "CETROTIDE SUBCUTANEOUS KIT 0.25 MG (cetrorelix"
+    },
+    {
+      "drugName": "Prometrium",
+      "genericName": "progesterone",
+      "brandNames": [
+        "Prometrium",
+        "Endometrin",
+        "Crinone"
+      ],
+      "coverageCode": "NF",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Non-formulary — prior authorization or exception required",
+      "covered": false,
+      "genericAlternative": "progesterone oral capsule 100 mg / 200 mg (generic) — covered",
+      "matchedLine": "CRINONE VAGINAL GEL 4 %, 8 % (progesterone)PB"
+    },
+    {
+      "drugName": "Novarel",
+      "genericName": "chorionic gonadotropin",
+      "brandNames": [
+        "Novarel",
+        "Pregnyl",
+        "Ovidrel"
+      ],
+      "coverageCode": "NF",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Non-formulary — prior authorization or exception required",
+      "covered": false,
+      "genericAlternative": null,
+      "matchedLine": "chorionic gonadotropin intramuscular solution reconstituted"
+    },
+    {
+      "drugName": "Estrace",
+      "genericName": "estradiol",
+      "brandNames": [
+        "Estrace"
+      ],
+      "coverageCode": "CE",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Clinical exception required",
+      "covered": true,
+      "genericAlternative": "estradiol oral tablet 0.5 mg / 1 mg / 2 mg (generic) — covered",
+      "matchedLine": "desogestrel-ethinyl estradiol oral tablet 0.15-0.02/0.01 mg (21/5)CE"
+    },
+    {
+      "drugName": "Vivelle-Dot",
+      "genericName": "estradiol transdermal",
+      "brandNames": [
+        "Vivelle-Dot",
+        "Vivelle",
+        "Climara"
+      ],
+      "coverageCode": "CE",
+      "tier": null,
+      "copay": null,
+      "priorAuthRequired": true,
+      "quantityLimit": null,
+      "stepTherapyRequired": false,
+      "notes": "Clinical exception required",
+      "covered": true,
+      "genericAlternative": null,
+      "matchedLine": "norelgestromin-eth estradiol transdermal patch weekly 150-35"
+    }
+  ]
+}
